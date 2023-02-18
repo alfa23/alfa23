@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfa23
 - 👀 I’m interested in ... gaming and gadgets, drawing and design, techno and trance
-- 🌱 I’m currently learning ... full stack development
+- 🌱 I’m currently learning ... React, Rive & Blender!
 - 💞️ I’m looking to collaborate on ... creative stuff
 - 📫 How to reach me ... Xbox gamertag: Alfa23 | email: paw235@gmail.com
 
